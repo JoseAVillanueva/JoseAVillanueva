@@ -18,5 +18,5 @@ Greetings and Salutations,<br>My name is Jose, and I am a Software Engineer<br> 
 [![](https://visitcount.itsvg.in/api?id=JoseAVillanueva&icon=2&color=2)](https://visitcount.itsvg.in)
 
 # 💻 Featured Videos:
-![(Life) Advice From The Creator of C++](https://ytcards.demolab.com/?id=-QxI-RP6-HM&title=(Life)+Advice+From+The+Creator+of+C++&lang=en&timestamp=1692853200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=197 "(Life) Advice From The Creator of C++")
+[![(Life) Advice From The Creator of C++](https://ytcards.demolab.com/?id=-QxI-RP6-HM&title=(Life)+Advice+From+The+Creator+of+C++&lang=en&timestamp=1692853200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=197 "(Life) Advice From The Creator of C++")](https://www.youtube.com/watch?v=-QxI-RP6-HM)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
