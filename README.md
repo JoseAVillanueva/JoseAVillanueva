@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Welcome:
 Greetings and Salutations,<br>My name is Jose, and I am a Software Engineer<br> with a passion for creating robust and efficient solutions. <br>Currently, I am actively engaged in developing <br>Object-Oriented Programs that leverage various <br>Data Structures, including Dequeues, Doubly Linked Lists, <br>and Graphs. These endeavors serve to deepen my <br>understanding of Object-Oriented Programming Languages <br>and enhance my proficiency in handling complex <br>data scenarios.<br><br>Furthermore, I am dedicating time to in-depth studies<br> related to Search and Sorting Algorithms. By refining my <br>knowledge in this area, I aim to optimize existing <br>applications and contribute to the continuous <br>improvement of software systems.
 
 
@@ -16,5 +16,7 @@ Greetings and Salutations,<br>My name is Jose, and I am a Software Engineer<br> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JoseAVillanueva&icon=2&color=2)](https://visitcount.itsvg.in)
+
+# 💻 Featured Videos:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
