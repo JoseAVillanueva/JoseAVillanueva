@@ -11,12 +11,7 @@ Greetings and Salutations,<br>My name is Jose, and I am a Software Engineer<br> 
 ![](https://github-readme-stats.vercel.app/api?username=JoseAVillanueva&theme=kacho_ga&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=JoseAVillanueva&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=JoseAVillanueva&icon=2&color=2)](https://visitcount.itsvg.in)
-# 💻 Featured Videos:
+# 💻 Convenient Videos:
 [![(Life) Advice From The Creator of C++](https://ytcards.demolab.com/?id=-QxI-RP6-HM&title=(Life)+Advice+From+The+Creator+of+C++&lang=en&timestamp=1692853200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=197 "(Life) Advice From The Creator of C++")](https://www.youtube.com/watch?v=-QxI-RP6-HM)
 [![9.1 Knuth-Morris-Pratt KMP String Matching Algorithm](https://ytcards.demolab.com/?id=V5-7GzOfADQ&title=9.1+Knuth-Morris-Pratt+KMP+String+Matching+Algorithm&lang=en&timestamp=1692853200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1135 "9.1 Knuth-Morris-Pratt KMP String Matching Algorithm")](https://www.youtube.com/watch?v=V5-7GzOfADQ)
 [![2.6.1 Binary Search Iterative Method](https://ytcards.demolab.com/?id=C2apEw9pgtw&t=206s&title=2.6.1+Binary+Search+Iterative+Method&lang=en&timestamp=1517205600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1175 "2.6.1 Binary Search Iterative Method")](https://www.youtube.com/watch?v=C2apEw9pgtw&t=206s)
@@ -29,4 +24,10 @@ Greetings and Salutations,<br>My name is Jose, and I am a Software Engineer<br> 
 [![MERGE SORT ALGORITHM | Sorting Algorithm | DSA | GeeksforGeeks](https://ytcards.demolab.com/?id=JSceec-wEyw&title=MERGE+SORT+ALGORITHM+|+Sorting+Algorithm+|+DSA+|+GeeksforGeeks&lang=en&timestamp=1474693200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=98 "MERGE SORT ALGORITHM | Sorting Algorithm | DSA | GeeksforGeeks")](https://www.youtube.com/watch?v=JSceec-wEyw)
 [![Radix Sort | GeeksforGeeks](https://ytcards.demolab.com/?id=nu4gDuFabIM&title=Radix+Sort+|+GeeksforGeeks&lang=en&timestamp=1474693200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=68 "Radix Sort | GeeksforGeeks")](https://www.youtube.com/watch?v=nu4gDuFabIM)
 [![Shell Sort | GeeksforGeeks](https://ytcards.demolab.com/?id=SHcPqUe2GZM&title=Shell+Sort+|+GeeksforGeeks&lang=en&timestamp=1474693200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114 "Shell Sort | GeeksforGeeks")](https://www.youtube.com/watch?v=SHcPqUe2GZM)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=JoseAVillanueva&icon=2&color=2)](https://visitcount.itsvg.in)
+<!-- Made, with help from, GPRM ( https://gprm.itsvg.in ) -->
